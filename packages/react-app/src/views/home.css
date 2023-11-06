@@ -1,0 +1,43 @@
+.home_buttons {
+    display: flex;
+    align-items: center;
+    /*box ta ke majhe rakhte*/
+    justify-content: center;        
+    /* box r moddher text majhe */
+    padding: 20px;
+    margin: auto;
+
+    border: 2px solid black;
+    width: 200px;
+    background-color: whitesmoke;
+    box-shadow: 1px 1px 8px rgba(0, 0, 0, 0.25);
+    border-radius: 10px;    
+    margin-bottom: 20px; 
+    margin-top: 20px;  
+    
+    font-size: 18px;
+    font-weight: bold;
+   
+    color: black;
+}
+
+.create-campaign-form{
+    display: flex;
+    flex-direction: column;
+}
+
+.upload-image{
+    margin-bottom: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.select-type{
+    margin-bottom: 30px;
+    justify-content: center;
+    align-items: center;
+}
+
+.unverified-container{
+    gap: 20px;
+}
