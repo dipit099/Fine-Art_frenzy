@@ -1,5 +1,5 @@
 # BUET CSE Fest 2023 Hackathon
-# Blockchain Category
+# Web3 & Blockchain Category
 
 Project Name: Fine Art frenzy
 
