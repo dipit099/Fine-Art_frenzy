@@ -1,6 +1,7 @@
 # BUET CSE Fest 2023 Hackathon
 # Blockchain Category
 
+Project Name: Fine Art frenzy
 Our Website:
 https://abounding-rub.surge.sh/
 
