@@ -1,7 +1,5 @@
 # BUET CSE Fest 2023 Hackathon
-# Web3 & Blockchain Category
-
-Project Name: Fine Art frenzy
+# Blockchain Category
 
 Our Website:
 https://abounding-rub.surge.sh/
