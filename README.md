@@ -1,5 +1,5 @@
 # BUET CSE Fest 2023 Hackathon
-# Blockchain Category
+## Blockchain Category
 
 Our Website:
 https://abounding-rub.surge.sh/
@@ -9,3 +9,12 @@ Etherscan API Key: [In Sepolia Network]
 
 # Update:
 We won the BUET Rising Team Award in BUET CSE Fest 2023!!!
+
+
+## Contributors:
+
+Ahnaf Tahmid
+
+Dipit Saha
+
+Abrar Jahin
